@@ -38,7 +38,7 @@
   - `openpyxl`
 
 ---
-Install Dependency
+Install Dependency:
 pip install numpy pandas matplotlib seaborn scikit-learn selenium openpyxl
 
 
