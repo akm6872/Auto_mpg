@@ -40,5 +40,9 @@
 ---
 Install Dependency:
 pip install numpy pandas matplotlib seaborn scikit-learn selenium openpyxl
+___
+
+Dataset has been taken from kaggle:
+
 
 
